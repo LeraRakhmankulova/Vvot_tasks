@@ -1,4 +1,4 @@
-cloud_id  = "b1g71e95h51okii30p25"
-folder_id = "b1g7n1ma13iqb1a0lcfi"
+cloud_id  = "test_clouf_id"
+folder_id = "test_folder_id"
 user      = "vvot29"
-tgkey     = "6946645026:AAEL2_HdqcLuu2x7lHsOFIh2JHhn55Oh74A"
+tgkey     = "test_tg_bot_token"
