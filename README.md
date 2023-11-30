@@ -16,6 +16,12 @@
   --output key.json
 ```
 Изменить переменные в файле terraform.tfvars
+```
+cloud_id  = <cloud_id> 
+folder_id = <folder_id> 
+user      = <vvot29>
+tgkey     = <tg_bot_token>
+```
 
 ### Выполнить команды
 ```
@@ -27,4 +33,5 @@ terraform apply
 ```
 ## Облачные функции
 Код для обработчиков face-detection, face-cut, tg-boot находится в папке functions
+
 Ссылка на доступного бота - https://t.me/vvot29_2023_bot
